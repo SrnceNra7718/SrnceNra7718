@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 I'm Sorence
+<img alt="sn stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SrnceNra7718&show_icons=true"/>
+<img alt="sn top languages" align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrnceNra7718&layout=compact"/>
+
 
 <!--
 **SrnceNra7718/SrnceNra7718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
